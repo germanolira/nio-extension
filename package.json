@@ -1,0 +1,30 @@
+{
+    "name": "nio",
+    "displayName": "Nio",
+    "description": "Code Snippets para configurações de projetos, padronização do HTML",
+    "version": "1.0.0",
+    "publisher": "Germano Lira",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/germanolira/nio-extension"
+    },
+    "icon": "nio.png",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

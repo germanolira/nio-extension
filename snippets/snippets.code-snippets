@@ -1,0 +1,22 @@
+{
+    "Nio Starter Template": {
+        "prefix": "!nio",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang=\"pt-br\">",
+            "<head>",
+                "<meta charset=\"UTF-8\">",
+                "<meta name=\"description\" content="">",
+                "<meta name=\"keywords\" content="">",
+                "<meta name=\"author\" content="">",
+                "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+                "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/nio-framework@0.0.2/css/nio.min.css\">",
+                "<title>Document</title>",
+            "</head>",
+            "<body>",
+            "</body>",
+            "</html>"
+        ],
+        "description": "Crie projetos padronizado com o NIO Framework & Nio Templates"
+    }
+}
